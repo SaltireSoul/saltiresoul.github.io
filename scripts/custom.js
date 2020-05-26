@@ -254,7 +254,7 @@ $(document).ready(function() {
         
         //send to formspree
         $.ajax({
-            url:'https://formsubmit.co/0dfc9dbcbd5d6b894062d1bbf5ffbe89',
+            url:'https://airform.io/saltiresoul@gmail.com',
             method:'POST',
             data:{
                 name:name,
