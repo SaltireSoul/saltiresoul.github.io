@@ -1,0 +1,16 @@
+<audio id="agoraphobia" src="media/agoraphobia.mp3"></audio>
+<span id="logo"><img src="media/logo.png" alt="SaltireSoul logo"></span>
+
+<span id="a">pBob@SaltireSoul</span>:<span id="b">~</span><span id="c">$</span> cd <!-- kjsdfhkjdhsfkjdshfkj -->about
+<span id="a">pBob@SaltireSoul</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->secret.md<br/><br/>
+<p>Hi! I'm Paul-Robert Archibald. <!-- sjkfhskjf --></p>
+
+<p>An <a href="http://en.wikipedia.org/wiki/Agoraphobia" class="subtle" rel="external">agoraphobic</a><i class="qtip tip-top" data-tip="Agoraphobia pronunciation"><sup onclick="document.getElementById('agoraphobia').play()">*</sup></i> geek from Scotland. <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.0/svg/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.svg" alt="Flag of Scotland" width="24px" height="24px"></p>
+
+<p class="social">You can find me on: <a href="https://www.twitter.com/furryface" rel="external" class="qtip tip-top" data-tip="Twitter"><i class="fa-brands fa-twitter theme-twitter fa-2x"></i></a> <a href="https://github.com/SaltireSoul" rel="external" class="qtip tip-top" data-tip="GitHub"><i class="fa-brands fa-github theme-github fa-2x"></i></a></p>
+
+<p>Need to contact me?  You can drop me a line at <a href="mailto://saltiresoul@gmail.com">saltiresoul@gmail.com</a>
+    or alternatively Tel: <span class="qtip tip-top" data-tip="Leave a voicemail"><a href="wtai://wp/mc;03308280743">0330 828 0743</a> <i class="fa-solid fa-voicemail"></i></span>
+</p>
+
+<span id="a">pBob@SaltireSoul</span>:<span id="b">~</span><span id="c">$</span> <span id="k">|</span>
