@@ -20,8 +20,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/victormono@latest/dist/index.min.css" />
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css' />
 <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/nerdfonts-web@1.0.1/nf.min.css' />
-<link rel="stylesheet" type="text/css" href="css/index.css" />
-<link rel="stylesheet" type="text/css" href="css/tooltip.css" />
+<link rel="stylesheet" type="text/css" href="/css/index.css" />
+<link rel="stylesheet" type="text/css" href="/css/tooltip.css" />
 <!-- Favicon -->
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.png" />
@@ -30,7 +30,42 @@
 <!-- End Favicon -->
 </head>
   <body>
-    <script type="text/javascript" src="js/index.js"></script>
-    <div id="console"></div>
+
+    <div id="outer">
+      <div id="console">
+
+        <img class="terminal" src="/media/terminal.png" alt="Terminal" width="688px" height="100px">
+        <div class="topleft">
+  
+          <audio id="agoraphobia" src="/media/agoraphobia.mp3"></audio>        
+          <p>
+            <span id="a">pBob@SaltireSoul</span>:<span id="b">~</span><span id="c">$</span> cd about<br/><br/>
+            <span id="a">pBob@SaltireSoul</span>:<span id="b">~</span><span id="c">$</span> cat secret.md
+          </p>
+          <p>Hi! I'm Paul-Robert Archibald.</p>
+          
+          <p>
+            An <a href="http://en.wikipedia.org/wiki/Agoraphobia" class="subtle" rel="external">agoraphobic</a><i class="qtip tip-top" data-tip="Agoraphobia pronunciation"><sup onclick="document.getElementById('agoraphobia').play()">*</sup></i> geek from Scotland. <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.0/svg/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.svg" alt="Flag of Scotland" width="24px" height="24px">
+          </p>
+          
+          <p class="social">
+            You can find me on: <a href="https://www.twitter.com/furryface" rel="external" class="qtip tip-top" data-tip="Twitter"><i class="fa-brands fa-twitter theme-twitter fa-2x"></i></a> <a href="https://github.com/SaltireSoul" rel="external" class="qtip tip-top" data-tip="GitHub"><i class="fa-brands fa-github theme-github fa-2x"></i></a>
+          </p>
+          
+          <p>
+            Need to contact me?  You can drop me a line at <a href="mailto://saltiresoul@gmail.com">saltiresoul@gmail.com</a> or alternatively Tel: <span class="qtip tip-top" data-tip="Leave a voicemail"><a href="wtai://wp/mc;03308280743">0330 828 0743</a> <i class="fa-solid fa-voicemail"></i></span>
+          </p>
+          
+          <p>
+            <span id="a">pBob@SaltireSoul</span>:<span id="b">~</span><span id="c">$</span> <span id="k">|</span>
+          </p>
+  
+        </div>
+        <div class="topright"><img src="/media/logo.png" alt="SaltireSoul logo"></div>
+        <div class="bottomright"><span class="pi">&pi;<!--π--></span></div>
+
+      </div>
+    </div>
+
   </body>
 </html>
