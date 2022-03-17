@@ -1,8 +1,6 @@
 ### Basic Attribution
 
-Terminal background from [Carbon.now.sh]([Carbon | Create and share beautiful images of your source code](https://carbon.now.sh/))
-
-
+Terminal background from [Carbon.now.sh](https://carbon.now.sh/)
 
 Victor Mono font [victor-mono](https://github.com/rubjo/victor-mono) via [jsdelivr](jsdelivr.com)
 
