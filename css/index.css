@@ -44,5 +44,6 @@ sup { vertical-align: super }
 .social a{border-bottom:0; border: 0; border: none; border: hidden;}
 .theme-twitter:hover{color:rgb(0, 172, 237);}
 .theme-github:hover{color:rgb(64, 120, 192);}
+.theme-mastodon:hover{color:rgb(89, 70, 219);}
 
 .pi{color:rgb(119, 119, 119);text-decoration:none;cursor: default;}
