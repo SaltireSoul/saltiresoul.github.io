@@ -45,5 +45,10 @@ sup { vertical-align: super }
 .theme-twitter:hover{color:rgb(0, 172, 237);}
 .theme-github:hover{color:rgb(64, 120, 192);}
 .theme-mastodon:hover{color:rgb(89, 70, 219);}
+/*.theme-bluesky:hover{color:rgb(17,133,254);}*/ /* #1185FE */
+
+/* https://codepen.io/sosuke/pen/Pjoqqp */
+.theme-bluesky{filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7462%) hue-rotate(206deg) brightness(105%) contrast(105%);}
+.theme-bluesky:hover{filter: brightness(0) saturate(100%) invert(42%) sepia(46%) saturate(6179%) hue-rotate(199deg) brightness(105%) contrast(99%);}
 
 .pi{color:rgb(119, 119, 119);text-decoration:none;cursor: default;}
